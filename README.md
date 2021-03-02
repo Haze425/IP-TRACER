@@ -5,8 +5,6 @@ IP-Tracker is used to track an ip address. IP-Tracker is developed for Termux an
  IP tracking is the technology behind our website that will give you an easy way to lookup, find, track and trace any publicly accessible IP location in the world.
 "What is My IP" and "IP Lookup" are frequently searched terms on the internet. Our tracker will not only show you what your Internet Protocol Address is, but will also give you information about the location of your own IP and other related information regarding your publicly available IP. 
 <br>
-<img src="https://github.com/anonymousproo/IP-Tracker/blob/main/scr/ip%20tracker0.jpg">
-<img src="https://github.com/anonymousproo/IP-Tracker/blob/main/scr/ip%20tracker%201.jpg">
 # What Is The Difference Between IP Tracker Tool?
 P Tracker and are similar IP tools. The only difference is that the IP tracker was developed to track more information about your own IP and the PC behind it. Our IP lookup also known as IP Locator was developed to lookup IP addresses and domain names and to obtain all IP information regarding any IP other than your own.
 <br>
