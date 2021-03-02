@@ -27,7 +27,7 @@ With dedicated servers in US, EU and APAC, a network based on Anycast technology
 # Can I use your API on my commercial website?
 We do not allow commercial use of the free endpoint. Please see our pro service for SSL access, unlimited queries, usage statistics and commercial support.
 # Installation
-git clone https://github.com/anonymousproo/IP-Tracker.git<br>
+git clone https://github.com/Haze425/IP-TRACER.git<br>
 Or you can download the zip file<br>
 cd IP-Tracker<br>
 chmod +x IP-Tracker.py<br>
